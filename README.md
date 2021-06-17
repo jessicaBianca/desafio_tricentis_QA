@@ -42,7 +42,7 @@ https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html
 
 5. Instalação do Eclipse
 https://www.eclipse.org/downloads/<br>
-Obsservação: após instalação e abertura do projeto dentro do eclipse é necessário configurar na aba: Window > Preferences > Abra General > Clique em Workspace > Altere o campo 'Text file encoding' para 'Other' e selecione 'UTF-8 > clique em 'Apply and Close'
+Observação: após instalação e abertura do projeto dentro do eclipse é necessário configurar na aba: Window > Preferences > Abra General > Clique em Workspace > Altere o campo 'Text file encoding' para 'Other' e selecione 'UTF-8 > clique em 'Apply and Close'
 
 6. Instalação do ChromeDrive: https://chromedriver.chromium.org/downloads<br>
 
